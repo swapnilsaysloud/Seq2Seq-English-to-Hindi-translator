@@ -1,1 +1,2 @@
 # Seq2Seq-English-to-Hindi-translator
+This project is a machine translation system that translates sentences from English to Hindi. It utilizes PyTorch to implement neural networks, including an encoder-decoder architecture with attention mechanisms. The technologies used include PyTorch for neural network modeling, recurrent neural networks (RNNs), and an attention mechanism to improve translation quality. The system preprocesses, trains, and evaluates English-to-Hindi translation models, and includes visualization components for attention weights.
